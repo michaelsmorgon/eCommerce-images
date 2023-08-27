@@ -1,0 +1,24 @@
+Cyborg 1 HMS exercise atlas
+750
+
+Cyborg 1 by HMS is a professional atlas for exercising at home, which will be as professional as in a gym.
+
+
+dimensions: 222 x 157 x 206 cm
+
+
+
+seat dimensions:
+length: 30.5 cm
+width: 36.5 cm
+back dimensions:
+height: 88 cm
+width: 32 cm
+maximum product load: 150 kg
+permissible loads:
+for racks: 150 kg
+for leg press: 45 kg
+for prayer book: 60 kg
+for stick and shoulders: 90 kg
+product weight: 69 kg
+maximum user weight: 135 kg
